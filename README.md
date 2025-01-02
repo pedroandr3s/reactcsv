@@ -11,18 +11,19 @@ Estructura del Proyecto
 El proyecto se organizó de la siguiente manera:
 
 csv-processor/
-├── package.json
-├── public/
-│   └── index.html
-└── src/
-    ├── App.js
-    ├── components/
-    │   └── CSVProcessor.js
-    ├── styles/
-    │   └── CSVProcessor.css
-    ├── utils/
-    │   └── csvProcessor.js
-    └── index.js
+  - package.json
+  - public/
+    - index.html
+  - src/
+    - App.js
+    - components/
+      - CSVProcessor.js
+    - styles/
+      - CSVProcessor.css
+    - utils/
+      - csvProcessor.js
+    - index.js
+
 
 Archivos del Proyecto
 App.js
